@@ -2,8 +2,8 @@
 
 Soy desarrollador Fullstack , las principales herramientas/tecnologías con que he trabajado son:
 
-1✨**Frontend:** HTML, CSS, JavaScript
-2✨  Backend: Java, Python
+*✨**Frontend:** HTML, CSS, JavaScript
+*✨**Backend:** Java, Python
 3✨  Bases de Datos: MySQL, Oracle SQL 
 ✨  Herramientas de Desarrollo: Git, Maven
 
