@@ -1,8 +1,12 @@
 ### Hola, mi nombre es Carlos Garcia 
 
-Soy desarrollador de software, relacionado con el entorno de la teclogias Java y Python
+Soy desarrollador Fullstack , las principales herramientas/tecnologías con que he trabajado son:
 
-<!--
+Frontend: HTML, CSS, JavaScript
+Backend: Java, Python
+Bases de Datos: MySQL, Oracle
+Herramientas de Desarrollo: Git, Maven
+
 **CarlosGarciaPerez/CarlosGarciaPerez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
