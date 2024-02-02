@@ -1,4 +1,6 @@
-### Hola mi nombre es Carlos Garcia
+### Hola, mi nombre es Carlos Garcia 
+
+Soy desarrollador de software, relacionado con el entorno de la teclogias Java y Python
 
 <!--
 **CarlosGarciaPerez/CarlosGarciaPerez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
