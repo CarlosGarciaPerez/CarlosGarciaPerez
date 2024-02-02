@@ -7,3 +7,4 @@ Soy desarrollador Fullstack , las principales herramientas/tecnologías con que 
 -✨  Bases de Datos: MySQL, Oracle
 -✨  Herramientas de Desarrollo: Git, Maven
 
+Mi objetivo es crecer como profesional dentro de la industria del desarrollo de software
