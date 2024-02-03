@@ -1,7 +1,7 @@
 
 ![result](https://github.com/CarlosGarciaPerez/CarlosGarciaPerez/assets/53191907/b3a9be6c-bc63-4815-a4aa-00954a82c0ff)
 
-### Hola :wave:, mi nombre es Carlos Garcia , soy desarrollador FullStack , Ingeniero de sistemas computacionales de profesión, las principales herramientas/tecnologías con que he trabajado son:
+### Hola :wave:, mi nombre es Carlos Garcia , soy desarrollador FullStack , Ingeniero en Sistemas Computacionales de profesión, las principales herramientas/tecnologías con que he trabajado son:
 
 * **Frontend:** HTML5, CSS3, JavaScript
 * **Backend:** Java, Python
