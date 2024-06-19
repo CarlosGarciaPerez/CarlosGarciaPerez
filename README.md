@@ -5,7 +5,7 @@
 
 * **Frontend:** HTML5, CSS3, JavaScript, React.js
 * **Backend:** Java, Python
-* **Bases de Datos:** MySQL, Oracle Pl-Sql 
+* **Bases de Datos:** MySQL, Oracle PL - SQL
 * **Herramientas de Desarrollo:** Git, Maven
 
 Mi objetivo es crecer como profesional dentro de la industria del desarrollo de software
