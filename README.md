@@ -3,9 +3,9 @@
 
 ### Hola :wave:, mi nombre es Carlos Garcia , soy desarrollador FullStack , Ingeniero en Sistemas Computacionales de profesión, las principales herramientas/tecnologías con que he trabajado son:
 
-* **Frontend:** HTML5, CSS3, JavaScript
+* **Frontend:** HTML5, CSS3, JavaScript, React.js
 * **Backend:** Java, Python
-* **Bases de Datos:** MySQL, Oracle SQL 
+* **Bases de Datos:** MySQL, Oracle Pl-Sql 
 * **Herramientas de Desarrollo:** Git, Maven
 
 Mi objetivo es crecer como profesional dentro de la industria del desarrollo de software
